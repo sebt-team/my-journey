@@ -4,7 +4,8 @@ My Journey is a Theme for the [Ghost](http://github.com/tryghost/ghost/) bloggin
 
 Theme is clean and flat based design with Google style "cards" elements. This theme is fully responsive and mobile frendly
 
-
+# Screenshot:
+https://github.com/dime01/my-journey/blob/master/Screenshot.png
 
 
 # Features:
