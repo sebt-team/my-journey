@@ -1,6 +1,28 @@
 # MyJourney
 
-Theme for [Ghost](http://github.com/tryghost/ghost/).
+My Journey is a Theme for the [Ghost](http://github.com/tryghost/ghost/) blogging system.
+
+Theme is clean and flat based design with Google style "cards" elements. This theme is fully responsive and mobile frendly
+
+
+
+
+# Features:
+
+- 100% responsive & mobile friendly
+
+- Flat design with “Cards” elements 
+
+- Fast and highly optimized
+
+- Sharing options with Twitter, Facebook or Google Plus
+
+- Easy to install and configuration
+
+
+Resources:
+- Font used: http://www.google.com/fonts/specimen/PT+Sans
+- Preview images: http://foundwalls.com/winter-snow-mountain/
 
 
 ## Copyright & License
