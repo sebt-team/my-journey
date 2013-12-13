@@ -1,6 +1,7 @@
 # MyJourney
 
-The default theme for [Ghost](http://github.com/tryghost/ghost/).
+Theme for [Ghost](http://github.com/tryghost/ghost/).
+
 
 ## Copyright & License
 
